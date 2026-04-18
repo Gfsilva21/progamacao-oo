@@ -11,4 +11,4 @@ Trabalho da disciplina de Programação Orientada a Objetos contendo a resoluç�
 ## Como executar
 
 Para executar uma questão específica:
-dart run lib/questao(NUMERO DA QUEDTAO)/main.dart
+dart run lib/questao(NUMERO DA QUESTAO)/main.dart
